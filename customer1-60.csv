@@ -1,3 +1,5 @@
+INSERT INTO employee82 (first_name, last_name, sexo, birthday, email, create_date, last_update, cargo, salario, cidade)
+values
 ('Alexander','Smith','M','1975-09-22','alexander.smith@techdomain.com','2013-08-22','2022-03-22','Desenvolvedor de Software',(135168.00),'Silicon Valley'),
 ('Michael','Johnson','M','1960-05-28','michael.johnson@brightwebsolutions.net','2019-10-10','2022-08-30','Eng. de Software',(142692.00),'San Francisco'),
 ('Elijah','Brown','M','1992-03-20','elijah.brown@freshonline.com','2016-01-16','2023-01-04','Analista de Sistemas',(221880.00),'Seattle'),
