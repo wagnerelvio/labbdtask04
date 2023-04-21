@@ -1,3 +1,5 @@
+INSERT INTO employee82 (first_name, last_name, sexo, birthday, email, create_date, last_update, cargo, salario, cidade)
+values
 ('Vinicius','Santos','M','1974-07-24','vinicius.santos@webprogurus.org','2014-11-21','2022-04-03','Eng. de Software',(137376.00),'Seattle'),
 ('Lucas','Silva','M','1969-12-10','lucas.silva@creativetechhub.org','2020-06-21','2022-06-26','Analista de Sistemas',(235884.00),'San Jose'),
 ('Jorge','Jorge','M','1970-01-13','jorge.jorge@futurewebtrends.org','2010-10-08','2023-03-04','Arquiteto de Soluções',(294384.00),'Bangalore'),
