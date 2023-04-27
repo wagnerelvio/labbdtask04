@@ -1,8 +1,0 @@
-CREATE TABLE compras (
-id_cliente serial PRIMARY KEY,
-id_transacao INT,
-data_compra DATE,
-valor DECIMAL(20,2) NOT NULL,
-loja varchar(100),
-CHECK (valor > 0)
-);
