@@ -46,9 +46,9 @@
 46,Henrique,Pereira,M,01/07/1977,henrique.pereira@futuredigitaltrends.com,23/02/2012,23/04/2022,Desenvolvedor de Aplicativos MÃ³veis,282384.00,Miami,Estados Unidos
 47,Ivan,Rocha,M,10/04/1983,ivan.rocha@securewebsolutions.net,28/09/2010,25/03/2022,Esp. em Sistemas de InformaÃ§Ã£o GeogrÃ¡fica (GIS),122412.00,Montreal,Canadá
 48,Raul,Martins,M,25/04/1974,raul.martins@cloudtechgenius.com,20/04/2022,15/07/2022,Esp. em AutomaÃ§Ã£o de Processos,160380.00,Mumbai,Índia
-49,JosÃ©,Carvalho,M,15/05/1992,josÃ©.carvalho@webpromastery.net,01/09/2020,25/10/2022,Esp. em RobÃ³tica,220776.00,Munique,Alemanha
+49,Jose, Carvalho,M,15/05/1992,josÃ©.carvalho@webpromastery.net,01/09/2020,25/10/2022,Esp. em RobÃ³tica,220776.00,Munique,Alemanha
 50,Paulo,Barbosa,M,05/07/1994,paulo.barbosa@innovatedigitaltech.com,26/12/2018,01/02/2023,Esp. em Engenharia de Software,284916.00,Nice,França
-51,MÃ¡rcio,Castro,M,24/05/1970,mÃ¡rcio.castro@wisewebtrends.net,21/05/2010,02/08/2022,Eng. Civil,223620.00,Nova York,Estados Unidos
+51,Marcio,Castro,M,24/05/1970,mÃ¡rcio.castro@wisewebtrends.net,21/05/2010,02/08/2022,Eng. Civil,223620.00,Nova York,Estados Unidos
 52,Leandro,Santos,M,22/11/1995,leandro.santos@proactivedomainmakers.com,17/09/2012,07/07/2022,Eng. MecÃ¢nico,246276.00,Osaka,Japão
 53,Ricardo,Menezes,M,27/12/1980,ricardo.menezes@digitalwebsavvy.com,14/08/2017,27/01/2023,Eng. ElÃ©trico,277092.00,Oslo,Noruega
 54,JÃºlio,Cavalcanti,M,14/04/1976,jÃºlio.cavalcanti@webgeniuslab.net,28/10/2020,09/03/2023,Eng. de ProduÃ§Ã£o,120108.00,Paris,França
@@ -88,16 +88,16 @@
 88,Laura,Oliveira,F,03/08/1968,laura.oliveira@wisewebmasters.org,23/02/2019,04/03/2023,Esp. em Web Design,255888.00,Wellington,Nova Zelândia
 89,Carla,Silva,F,16/05/1969,carla.silva@prowebsolutionslab.org,01/11/2020,28/01/2022,Analista de SeguranÃ§a da InformaÃ§Ã£o,289272.00,Xangai,China
 90,Bruna,Santos,F,28/12/1961,bruna.santos@techdomainexperts.org,18/04/2011,17/10/2022,Esp. em Suporte TÃ©cnico,220752.00,Zurique,Suíça
-91,NatÃ¡lia,Oliveira,F,03/11/1973,natÃ¡lia.oliveira@webgurupro.org,05/02/2021,20/09/2022,Desenvolvedor Front-end,280932.00,Bangalore,Índia
+91,Natalia,Oliveira,F,03/11/1973,natÃ¡lia.oliveira@webgurupro.org,05/02/2021,20/09/2022,Desenvolvedor Front-end,280932.00,Bangalore,Índia
 92,Alice,Souza,F,21/08/1980,alice.souza@digitalinnovationlab.org,29/12/2022,27/09/2022,Desenvolvedor Back-end,232104.00,Barcelona,Espanha
 93,Mirella,Rodrigues,F,16/10/1965,mirella.rodrigues@techsavvydomains.org,01/02/2017,03/10/2022,Desenvolvedor Full Stack,241356.00,Berlim,Alemanha
 94,Vanessa,Almeida,F,03/05/1969,vanessa.almeida@webmasterylab.org,20/08/2020,22/07/2022,Esp. em Internet das Coisas (IoT),143496.00,Bilbau,Espanha
 95,Paula,Costa,F,18/10/1980,paula.costa@creativewebtech.org,23/09/2011,24/06/2022,Eng. de Dados,259356.00,Boston,Estados Unidos
-96,FlÃ¡via,Pereira,F,21/08/1987,flÃ¡via.pereira@futuredigitaltrends.org,12/06/2012,06/09/2022,Esp. em DevOps,277812.00,Bratislava,Eslováquia
+96,Flavia,Pereira,F,21/08/1987,flÃ¡via.pereira@futuredigitaltrends.org,12/06/2012,06/09/2022,Esp. em DevOps,277812.00,Bratislava,Eslováquia
 97,Raquel,Fernandes,F,31/03/1970,raquel.fernandes@securewebsolutions.org,27/10/2013,20/10/2022,Esp. em Big Data,219528.00,Brisbane,Austrália
 98,Carol,Garcia,F,26/09/1971,carol.garcia@cloudtechgenius.org,02/08/2020,01/02/2023,Arquiteto de Software,199728.00,Austin,Estados Unidos
 99,Giselle,Ribeiro,F,03/12/1973,giselle.ribeiro@webpromastery.org,25/06/2020,22/02/2023,Esp. em Realidade Virtual/Realidade Aumentada,298704.00,Bangalore,Índia
-100,JÃ©ssica,Nunes,F,06/05/1973,jÃ©ssica.nunes@innovatedigitaltech.org,09/06/2015,11/04/2022,Analista de NegÃ³cios de TI,281712.00,Barcelona,Espanha
+100,Jessica,Nunes,F,06/05/1973,jÃ©ssica.nunes@innovatedigitaltech.org,09/06/2015,11/04/2022,Analista de NegÃ³cios de TI,281712.00,Barcelona,Espanha
 101,Marcela,Carvalho,F,30/09/1990,marcela.carvalho@wisewebtrends.org,28/12/2011,15/05/2022,Esp. em AutomaÃ§Ã£o de Testes,177060.00,Berlim,Alemanha
 102,Priscila,Lima,F,03/07/1971,priscila.lima@proactivedomainmakers.org,24/09/2020,08/11/2022,Esp. em Machine Learning,166200.00,Bilbau,Espanha
 103,Renata,AraÃºjo,F,31/01/1977,renata.araÃºjo@digitalwebsavvy.org,12/01/2016,07/10/2022,Esp. em Blockchain,245904.00,Boston,Estados Unidos
@@ -110,7 +110,7 @@
 110,Valentina,Castro,F,16/06/1964,valentina.castro@digitaldomaingurus.org,06/02/2020,14/11/2022,Esp. em VirtualizaÃ§Ã£o de Servidores,285552.00,Chicago,Estados Unidos
 111,Marta,Menezes,F,15/05/1994,marta.menezes@webproinnovators.org,04/02/2021,02/07/2022,Analista de Dados,175836.00,Coimbra,Portugal
 112,Mariana,Cavalcanti,F,03/01/1987,mariana.cavalcanti@techinnovationlab.org,08/01/2018,11/08/2022,Esp. em InteligÃªncia de NegÃ³cios (BI),184008.00,,
-113,AndrÃ©ia,Cunha,F,09/08/1990,andrÃ©ia.cunha@futurewebmakers.org,10/10/2013,22/02/2022,Esp. em ExperiÃªncia do UsuÃ¡rio (UX),252156.00,,
+113,Andreia,Cunha,F,09/08/1990,andrÃ©ia.cunha@futurewebmakers.org,10/10/2013,22/02/2022,Esp. em ExperiÃªncia do UsuÃ¡rio (UX),252156.00,,
 114,ClÃ¡udia,Alves,F,17/08/1961,clÃ¡udia.alves@wisedigitallab.org,15/07/2011,22/02/2023,Esp. em Interface do UsuÃ¡rio (UI),288420.00,,
 115,JÃºlia,Costa,F,01/05/1982,jÃºlia.costa@webgeniuspro.org,17/02/2020,29/10/2022,Esp. em Tecnologias Mobile,120936.00,,
 116,Rosa,Castro,F,16/07/1978,rosa.castro@securewebtrends.org,29/05/2011,04/08/2022,Desenvolvedor de Aplicativos MÃ³veis,154980.00,Houston,Estados Unidos
@@ -124,8 +124,8 @@
 124,Natalia,Gomes,F,08/04/1981,natalia.gomes@techtrendmakers.org,27/02/2015,10/03/2023,Eng. de ProduÃ§Ã£o,204456.00,Marselha,França
 125,Daniela,Fernandes,F,06/03/1983,daniela.fernandes@freshonlinedomains.org,27/12/2016,24/07/2022,Eng. QuÃ­mico,144552.00,Melbourne,Austrália
 126,AndrÃ©ia,Castro,F,05/04/1968,andrÃ©ia.castro@digitalstrategylab.org,12/01/2018,21/03/2022,Eng. de Controle e AutomaÃ§Ã£o,195960.00,Miami,Estados Unidos
-127,ClÃ¡udia,Lima,F,16/04/1975,clÃ¡udia.lima@webwizardryexperts.org,09/07/2018,06/01/2023,Eng. de Processos,209328.00,Montreal,Canadá
-128,JÃºlia,Martins,F,22/06/1968,jÃºlia.martins@websavvygurus.org,16/10/2018,15/12/2022,Eng. de SeguranÃ§a do Trabalho,233940.00,Mumbai,Índia
+127,Claudia,Lima,F,16/04/1975,clÃ¡udia.lima@webwizardryexperts.org,09/07/2018,06/01/2023,Eng. de Processos,209328.00,Montreal,Canadá
+128,Julia,Martins,F,22/06/1968,jÃºlia.martins@websavvygurus.org,16/10/2018,15/12/2022,Eng. de SeguranÃ§a do Trabalho,233940.00,Mumbai,Índia
 129,Bianca,Fernandes,F,08/12/1984,bianca.fernandes@wisewebmasters.org,06/06/2015,20/02/2023,Eng. de TelecomunicaÃ§Ãµes,248208.00,Munique,Alemanha
 130,TainÃ¡,Castro,F,26/06/1972,tainÃ¡.castro@prowebsolutionslab.org,28/11/2013,19/10/2022,Eng. de Energia,164652.00,Nice,França
 131,Liam,Smith,M,23/03/1978,liam.smith@techdomainexperts.org,01/09/2022,10/08/2022,Eng. de Manufatura,255048.00,Nova York,Estados Unidos
@@ -383,44 +383,44 @@
 383,Laura,Fernandes,F,12/08/1987,laura.fernandes@brightwebsolutions.net,18/07/2011,13/12/2022,Administrador de Banco de Dados,194820.00,Viena,Áustria
 384,Carla,Garcia,F,06/01/1978,carla.garcia@freshonline.com,04/12/2017,26/09/2022,Esp. em SeguranÃ§a da InformaÃ§Ã£o,214008.00,Washington, D.C.,Estados Unidos
 385,Bruna,Ribeiro,F,25/05/1975,bruna.ribeiro@proactiveweb.com,04/06/2022,27/10/2022,Gerente de Projeto de TI,173736.00,Wellington,Nova Zelândia
-386,NatÃ¡lia,Nunes,F,25/12/1974,natÃ¡lia.nunes@wisedigitalsolutions.com,28/07/2014,12/05/2022,Analista de Redes,156276.00,Xangai,China
+386,Natalia,Nunes,F,25/12/1974,natÃ¡lia.nunes@wisedigitalsolutions.com,28/07/2014,12/05/2022,Analista de Redes,156276.00,Xangai,China
 387,Alice,Carvalho,F,02/02/1967,alice.carvalho@creativetechhub.com,22/04/2022,07/02/2022,Cientista de Dados,268176.00,Zurique,Suíça
 388,Mirella,Lima,F,18/05/1978,mirella.lima@secureonlinesolutions.net,20/08/2020,01/04/2022,Esp. em Cloud Computing,281352.00,Bangalore,Índia
 389,Vanessa,AraÃºjo,F,24/11/1976,vanessa.araÃºjo@cloudtechmasters.com,14/03/2022,24/09/2022,Analista de Sistemas,275220.00,Barcelona,Espanha
 390,Paula,Rodrigues,F,28/01/1988,paula.rodrigues@webproexperts.com,30/05/2019,27/04/2022,Arquiteto de SoluÃ§Ãµes,130188.00,Berlim,Alemanha
-391,FlÃ¡via,Ferreira,F,19/05/1994,flÃ¡via.ferreira@digitaldomainmakers.com,29/09/2013,29/01/2023,Administrador de Banco de Dados,188628.00,Bilbau,Espanha
+391,Flavia,Ferreira,F,19/05/1994,flÃ¡via.ferreira@digitaldomainmakers.com,29/09/2013,29/01/2023,Administrador de Banco de Dados,188628.00,Bilbau,Espanha
 392,Raquel,Cardoso,F,26/10/1990,raquel.cardoso@innovatewebtech.com,10/12/2018,28/02/2022,Esp. em SeguranÃ§a da InformaÃ§Ã£o,206640.00,Boston,Estados Unidos
 393,Carol,Rodrigues,F,02/04/1969,carol.rodrigues@techgurusonline.com,26/06/2010,28/11/2022,Gerente de Projeto de TI,156156.00,Bratislava,Eslováquia
 394,Giselle,Felipe,F,07/12/1962,giselle.felipe@websavvysolutions.net,14/10/2021,09/09/2022,Gerente de Infraestrutura de TI,169980.00,Brisbane,Austrália
-395,JÃ©ssica,Luana,F,04/11/1983,jÃ©ssica.luana@futurewebtrends.com,16/08/2019,23/08/2022,Esp. em Bancos de Dados,296232.00,Austin,Estados Unidos
+395,Jessica,Luana,F,04/11/1983,jÃ©ssica.luana@futurewebtrends.com,16/08/2019,23/08/2022,Esp. em Bancos de Dados,296232.00,Austin,Estados Unidos
 396,Marcela,Samuel,F,23/12/1963,marcela.samuel@digitalstrategylab.com,21/12/2014,30/03/2022,Esp. em Web Design,237792.00,Bangalore,Índia
 397,Priscila,Giovanna,F,16/06/1963,priscila.giovanna@webwizardsonline.com,09/08/2018,12/01/2022,Analista de SeguranÃ§a da InformaÃ§Ã£o,223188.00,Barcelona,Espanha
 398,Renata,Daniel,F,23/08/1995,renata.daniel@techtrendmakers.com,18/06/2022,04/01/2023,Esp. em Suporte TÃ©cnico,251856.00,Berlim,Alemanha
-399,VÃ­vian,Fernanda,F,25/04/1975,vÃ­vian.fernanda@digitaldomainexperts.net,10/06/2020,13/08/2022,Desenvolvedor Front-end,272184.00,Bilbau,Espanha
-400,PatrÃ­cia,Gustavo,F,18/08/1965,patrÃ­cia.gustavo@webmasterysolutions.com,04/05/2018,29/07/2022,Desenvolvedor Back-end,264192.00,Boston,Estados Unidos
+399,Vivian,Fernanda,F,25/04/1975,vÃ­vian.fernanda@digitaldomainexperts.net,10/06/2020,13/08/2022,Desenvolvedor Front-end,272184.00,Bilbau,Espanha
+400,Patricia,Gustavo,F,18/08/1965,patrÃ­cia.gustavo@webmasterysolutions.com,04/05/2018,29/07/2022,Desenvolvedor Back-end,264192.00,Boston,Estados Unidos
 401,Giovanna,LetÃ­cia,F,21/04/1964,giovanna.letÃ­cia@prowebsolutions.net,03/04/2014,18/05/2022,Desenvolvedor Full Stack,273912.00,Bratislava,Eslováquia
 402,Larissa,Lucas,F,06/04/1972,larissa.lucas@digitaldomainmasters.com,06/09/2019,24/11/2022,Esp. em Internet das Coisas (IoT),200508.00,Brisbane,Austrália
 403,Thais,Carolina,F,16/02/1992,thais.carolina@webprogurus.net,11/03/2020,23/11/2022,Eng. de Dados,224304.00,Budapeste,Hungria
 404,Kelly,Eduardo,F,18/01/1969,kelly.eduardo@creativetechhub.com,26/03/2023,09/03/2023,Esp. em DevOps,237816.00,Cambridge,Reino Unido
 405,Valentina,Bruna,F,12/04/1964,valentina.bruna@futurewebtrends.net,30/01/2014,28/08/2022,Esp. em Big Data,249840.00,Campinas,Brasil
 406,Marta,Matheus,F,29/09/1994,marta.matheus@techsolutionslab.com,19/02/2023,14/01/2022,Arquiteto de Software,160344.00,Chennai,Índia
-407,Mariana,JÃºlia,F,22/08/1969,mariana.jÃºlia@webmasteryexperts.com,05/12/2012,17/01/2023,Esp. em Realidade Virtual/Realidade Aumentada,264024.00,Chicago,Estados Unidos
-408,AndrÃ©ia,Alex,F,27/11/1982,andrÃ©ia.alex@innovatewebtech.net,25/08/2021,19/02/2023,Analista de NegÃ³cios de TI,227304.00,Mannheim,Alemanha
-409,ClÃ¡udia,Patricia,F,19/05/1962,clÃ¡udia.patricia@secureonlinedomains.com,02/11/2011,18/01/2022,Esp. em AutomaÃ§Ã£o de Testes,136848.00,Amsterdam,Países Baixos
-410,JÃºlia,Thiago,F,03/01/1976,jÃºlia.thiago@cloudtechmakers.net,11/11/2012,23/08/2022,Esp. em Machine Learning,179388.00,Atlanta,Estados Unidos
+407,Mariana,Julina,F,22/08/1969,mariana.julia@webmasteryexperts.com,05/12/2012,17/01/2023,Esp. em Realidade Virtual/Realidade Aumentada,264024.00,Chicago,Estados Unidos
+408,Andreia,Alex,F,27/11/1982,andrÃ©ia.alex@innovatewebtech.net,25/08/2021,19/02/2023,Analista de NegÃ³cios de TI,227304.00,Mannheim,Alemanha
+409,Claudia,Patricia,F,19/05/1962,clÃ¡udia.patricia@secureonlinedomains.com,02/11/2011,18/01/2022,Esp. em AutomaÃ§Ã£o de Testes,136848.00,Amsterdam,Países Baixos
+410,Julia,Thiago,F,03/01/1976,jÃºlia.thiago@cloudtechmakers.net,11/11/2012,23/08/2022,Esp. em Machine Learning,179388.00,Atlanta,Estados Unidos
 411,Rosa,Amanda,F,29/09/1983,rosa.amanda@proactivewebsolutions.com,07/06/2019,21/04/2022,Esp. em Blockchain,229872.00,Austin,Estados Unidos
 412,Fabiana,Gabriel,F,10/04/1968,fabiana.gabriel@wisedigitalstrategies.com,25/11/2021,07/05/2022,Esp. em CiberseguranÃ§a,216132.00,Bangalore,Índia
 413,Luciana,Isabella,F,25/03/1989,luciana.isabella@webgeniuszone.net,02/08/2019,27/07/2022,Esp. em Gerenciamento de Projetos de TI,246600.00,Barcelona,Espanha
 414,LÃ­via,Rafael,F,27/12/1976,lÃ­via.rafael@techtrendmakers.com,11/01/2019,09/08/2022,Analista de Qualidade de Software,156936.00,Berlim,Alemanha
 415,DÃ©bora,Laura,F,05/01/1978,dÃ©bora.laura@freshonlinedomains.com,23/09/2014,21/03/2022,Gerente de OperaÃ§Ãµes de TI,180804.00,Bilbau,Espanha
 416,Bianca,Mateus,F,11/10/1962,bianca.mateus@digitalstrategylab.net,01/06/2012,16/10/2022,Esp. em ComputaÃ§Ã£o em Nuvem HÃ­brida,183288.00,Boston,Estados Unidos
-417,TainÃ¡,Sophia,F,30/06/1971,tainÃ¡.sophia@webwizardryexperts.com,22/06/2015,25/08/2022,Esp. em Redes de Computadores,282108.00,Bratislava,Eslováquia
+417,Tainah,Sophia,F,30/06/1971,tainah.sophia@webwizardryexperts.com,22/06/2015,25/08/2022,Esp. em Redes de Computadores,282108.00,Bratislava,Eslováquia
 418,Adriana,Felipe,F,24/04/1971,adriana.felipe@websavvygurus.net,03/10/2011,27/06/2022,Esp. em VirtualizaÃ§Ã£o de Servidores,199608.00,Brisbane,Austrália
 419,Natalia,Luana,F,29/12/1994,natalia.luana@wisewebmasters.com,09/06/2017,26/12/2022,Analista de Dados,282300.00,Budapeste,Hungria
 420,Daniela,Gustavo,F,30/05/1968,daniela.gustavo@prowebsolutionslab.com,12/12/2021,08/03/2022,Esp. em InteligÃªncia de NegÃ³cios (BI),210744.00,Cambridge,Reino Unido
-421,AndrÃ©ia,Alice,F,15/11/1993,andrÃ©ia.alice@techdomainexperts.net,15/08/2010,28/02/2022,Esp. em ExperiÃªncia do UsuÃ¡rio (UX),239256.00,Campinas,Brasil
+421,Andreria,Alice,F,15/11/1993,andreia.alice@techdomainexperts.net,15/08/2010,28/02/2022,Esp. em ExperiÃªncia do UsuÃ¡rio (UX),239256.00,Campinas,Brasil
 422,ClÃ¡udia,Lucas,F,05/04/1973,clÃ¡udia.lucas@webgurupro.net,23/11/2012,18/02/2023,Esp. em Interface do UsuÃ¡rio (UI),153948.00,Chennai,Índia
-423,JÃºlia,Sofia,F,10/11/1965,jÃºlia.sofia@digitalinnovationlab.com,16/07/2011,30/01/2022,Esp. em Tecnologias Mobile,219492.00,Chicago,Estados Unidos
+423,Julia,Sofia,F,10/11/1965,julia.sofia@digitalinnovationlab.com,16/07/2011,30/01/2022,Esp. em Tecnologias Mobile,219492.00,Chicago,Estados Unidos
 424,Bianca,Rafael,F,20/06/1963,bianca.rafael@techsavvydomains.net,31/05/2021,03/12/2022,Desenvolvedor de Aplicativos MÃ³veis,180648.00,Coimbra,Portugal
 425,TainÃ¡,Laura,F,08/04/1993,tainÃ¡.laura@webmasterylab.com,14/02/2011,26/08/2022,Esp. em Sistemas de InformaÃ§Ã£o GeogrÃ¡fica (GIS),262716.00,Copenhagen,Dinamarca
 426,Liam,Mateus,M,12/01/1994,liam.mateus@creativewebtech.net,14/07/2021,07/11/2022,Esp. em AutomaÃ§Ã£o de Processos,285312.00,Copenhague,Dinamarca
